@@ -1,0 +1,12 @@
+teste@mail.com
+password
+21
+5
+imap.uhserver.com
+993
+C:\z-notas\temp\
+C:\z-notas\final\
+44
+2
+C:\z-notas\erro\
+Id="CTe,Id="NFe,Id="MDFe
