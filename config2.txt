@@ -1,0 +1,12 @@
+nfe@pitt.com.br
+dale10000
+21
+5
+imap.uhserver.com
+993
+C:\Users\Jose\Documents\Python\email\temp\
+C:\Users\Jose\Documents\Python\email\final\
+44
+2
+C:\Users\Jose\Documents\Python\email\erro\
+Id="CTe,Id="NFe,Id="MDFe
